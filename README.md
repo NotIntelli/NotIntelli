@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @NotIntelli, your average piece of shit
+- 👀 I’m interested in nothing the world is so boring now
+- 🌱 I’m currently learning x86 Assembly and C
+- 💞️ I’m looking to collaborate on TPlusPlus
+- 📫 You can reach me via discord at Intelli#7167
